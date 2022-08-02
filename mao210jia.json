@@ -140,7 +140,7 @@
       "filterable": 1
     },
 
-{"key":"csp_xpath_huyam","name":"🐻虎牙M","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/rrzt/TVBOXJIA@main/mao/sub/xpath/huya.json"},
+{"key":"csp_xpath_huyam","name":"🐻虎牙M","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/rrzt/TVBOXJIA/blob/main/mao/sub/xpath/huya.json"},
 {"key":"csp_xpath_huyag","name":"🦊虎牙G","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://rrzt.coding.net/p/catys/d/maotv/git/raw/master/mao/sub/xpath/huya2.json"},
 {"key":"csp_biubiu_斗鱼","name":"🐟斗鱼","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://rrzt.coding.net/p/catys/d/maotv/git/raw/master/mao/sub/biubiu/斗鱼.json"},
 
